@@ -1,9 +1,12 @@
 ---
-layout: page
-title: You're up and running!
+layout: post
+title: Digitizing 90's Camcorder tapes
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+So for as long as I can remember, we've owned, one of those bulky, black, rectangular Sony camcorders from the 90's.
+
+![camcorder picture] (http://www.sonyinsider.com/wp-content/uploads/2010/05/874b5523259d8a8ca20c64a5dde6b6ea.jpg)
+
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
