@@ -7,7 +7,7 @@ If your family was anything like mine, then at some point you've likely owned on
 
 More specifically, my dad bought this sad looking Sony Handycam Hi8 way back in 1995.
 
-![camcorder picture] ({{ site.baseurl }}/images/digitizing-tapes/sony-camcorder.jpg)
+![camcorder picture] (http://i.imgur.com/4lQtgRL.jpg)
 
 ##### What the heck is Hi8?
 
@@ -23,7 +23,11 @@ After going through some of my old belongings, I came across the forgotten camco
 
 Crossing my fingers hoping the tapes haven't deteriorated magnetically, I inserted the tape labeled 1995 and.. success! I guess thanks to my dad for spending the extra money to buy the genuine Sony gold quality branded tapes instead of going for a more economical option. 
 
+![hi8 tape](http://i.imgur.com/V9RMCuh.jpg)
+
 I think its about time that I finally digitize these tapes to preserve them indefinitely. Digitizing 8mm tapes on these older analog only cameras is somewhat of a laborous process due to the missing firewire port available on some newer digital Hi8 camcorders. The only output option I have on this camcorder is a standard composite video jack and a single composite mono audio jack.
+
+![composite jacks](http://i.imgur.com/c85bxU1.jpg)
 
 To digitize these tapes we're going to need some type of video capture device, more specifically a composite video to USB device. Having looked into reviews, it seems like the Elgato video capture card seems to be where decent video quality and simple software meet for a somewhat reasonably priced $80 price tag. I quickly changed my mind after I checked amazon.ca and realized I was looking at USD prices..
 
@@ -31,7 +35,7 @@ To digitize these tapes we're going to need some type of video capture device, m
 
 Instead, I opted to dig through my belongings to find the EasyCap DC60 capture card I had bought from dealextreme for $8.00 + Free shipping back in 2008 when I used to stream my xbox 360 onto my laptop because my family tv was in use.
 
-![dealextreme easycap](http://i.imgur.com/opEDbo9.png)
+![dealextreme easycap](http://i.imgur.com/1wX3dmd.jpg)
 
 Don't be fooled, the cheap price tag doesn't come for free. This thing is riddled with problems, more on that later. 
 
