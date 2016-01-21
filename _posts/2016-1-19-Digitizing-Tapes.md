@@ -7,7 +7,12 @@ If your family was anything like mine, then at some point you've likely owned on
 
 More specifically, my dad bought this sad looking Sony Handycam Hi8 way back in 1995.
 
+---
+
 ![camcorder picture] (http://i.imgur.com/4lQtgRL.jpg)
+*The Sony Handycam CCD-TR70*
+
+---
 
 ##### What the heck is Hi8?
 
@@ -15,15 +20,25 @@ You see back in the 80's and 90's JVC reigned supreme with their 'VHS-C' tapes t
 
 All was good for Sony until JVC released 'S-VHS-C' a much higher quality version of VHS that featured 480i lines of resolution (vs VHS's 240i). Quick to respond, Sony released their 'Hi8' standard, a revised version of 'video8' that also featured 480i lines of resolution.
 
+---
+
 ![hi8 tape](http://i.imgur.com/V9RMCuh.jpg)
+*A Sony High Grade P6-120HG 8mm Hi8 tape*
+
+---
 
 ##### Onto the point..
 
 After going through some of my old belongings, I came across the forgotten camcorder along with 5 or 6 tapes that have not been played in over 10 years! (The tapes date from 1995 - 2006) 
 
-Crossing my fingers hoping the tapes haven't deteriorated magnetically, I inserted the tape labeled 1995 and.. success! I guess thanks to my dad for spending the extra money to buy the genuine Sony gold quality branded tapes instead of going for a more economical option. 
+Crossing my fingers hoping the tapes haven't deteriorated magnetically, I inserted the tape labeled 1995 and.. success! I guess thanks to my dad for spending the extra money to buy the genuine Sony gold quality branded tapes instead of going for a more economical option.
+
+---
 
 ![success viewfinder](http://i.imgur.com/kYzhhC4.jpg)
+*Success! Here's an image through the viewfinder of what appears to be my older brother opening a birthday gift*
+
+---
 
 I think its about time that I finally digitize these tapes to preserve them indefinitely. Digitizing 8mm tapes on these older analog only cameras is somewhat of a laborous process due to the missing firewire port available on some newer digital Hi8 camcorders. The only output option I have on this camcorder is a standard composite video jack and a single composite mono audio jack.
 
