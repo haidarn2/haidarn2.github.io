@@ -15,13 +15,13 @@ You see back in the 80's and 90's JVC reigned supreme with their 'VHS-C' tapes t
 
 All was good for Sony until JVC released 'S-VHS-C' a much higher quality version of VHS that featured 480i lines of resolution (vs VHS's 240i). Quick to respond, Sony released their 'Hi8' standard, a revised version of 'video8' that also featured 480i lines of resolution.
 
+![hi8 tape](http://i.imgur.com/V9RMCuh.jpg)
+
 ##### Onto the point..
 
 After going through some of my old belongings, I came across the forgotten camcorder along with 5 or 6 tapes that have not been played in over 10 years! (The tapes date from 1995 - 2006) 
 
 Crossing my fingers hoping the tapes haven't deteriorated magnetically, I inserted the tape labeled 1995 and.. success! I guess thanks to my dad for spending the extra money to buy the genuine Sony gold quality branded tapes instead of going for a more economical option. 
-
-![hi8 tape](http://i.imgur.com/V9RMCuh.jpg)
 
 ![success viewfinder](http://i.imgur.com/kYzhhC4.jpg)
 
@@ -39,8 +39,14 @@ Instead, I opted to dig through my belongings to find the EasyCap DC60 capture c
 
 Don't be fooled, the cheap price tag doesn't come for free. This thing is riddled with problems, more on that later. 
 
-For starters, finding drivers for this thing is atrocious, the provided driver simply does not work because it's designed for genuine easycap devices not this knockoff.
+For starters, finding drivers for this thing is atrocious, the provided driver simply does not work because it's designed for genuine easycap devices not this knockoff. After some device manager investigation, I found the hardware ID of the EasyCap device and began googling around for a Windows 10 Driver...
+
+![device manager no driver](http://i.imgur.com/rWS3dzI.png)
+```
+HardwareID: <b>USB\VID_05E1&PID_0408&REV_0005&MI_00</b>
+```
+
+I ended up finding this [blog post all about easycap drivers] (http://visser.io/2015/06/easycap-drivers-for-windows-8-1/) which linked to a driver that worked for my specific hardware [here](http://visser.io/wp-content/uploads/2015/06/EasycapDC60_STK1160Grabber_3264bit.zip).
 
 ![aux audio jack](http://i.imgur.com/jM5stQS.jpg)
 
-...WIP...
