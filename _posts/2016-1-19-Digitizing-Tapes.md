@@ -95,10 +95,23 @@ Before I explain what OBS is and show how I used it, I want to mention that the 
 
 #### OBS
 
-[Open Broadcaster Software](https://obsproject.com/), (OBS) is an open-source
+[Open Broadcaster Software](https://obsproject.com/), (OBS) is an open-source video streaming software used primarily by broadcasters to livestream their video feeds onto Twitch, Youtube, etc. The neat thing about OBS is that it can be configured to stream to a locally encoded file instead of broadcasting it online. Using the following settings, I was able to select the EasyCap as my video input device, and select my line-in as my audio input device: 
 
-WIP
+[OBS settings pic goes here]
+*caption 1*
 
-WIP
+---
 
-WIP
+We're almost done, All thats left is to apply a deinterlacing filter (getting rid of the scan lines caused by the 480i resolution from the camcorder) and to duplicate the mono left audio track to stereo:
+
+[OBS settings pic 2 goes here]
+*caption 2*
+
+---
+
+That's it! We can now start recording! For the odd person or two still reading, here's a little something for making it this far:
+
+[video clip goes here]
+*(May-11-2000) I slip and fall while celebrating my 6th birthday with my siblings*
+
+---
