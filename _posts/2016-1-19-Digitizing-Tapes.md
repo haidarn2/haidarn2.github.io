@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digitizing 90's Camcorder tapes
+title: Digitizing 90's Camcorder tapes for $8
 ---
 
 If your family was anything like mine, then at some point you've likely owned one of those bulky, black, rectangular Sony Handycam camcorders from the 90's.
@@ -48,6 +48,18 @@ HardwareID: USB\VID_05E1&PID_0408&REV_0005&MI_00
 ```
 
 I ended up finding this [blog post all about easycap drivers] (http://visser.io/2015/06/easycap-drivers-for-windows-8-1/) which linked to a driver that worked for my specific hardware [here](http://visser.io/wp-content/uploads/2015/06/EasycapDC60_STK1160Grabber_3264bit.zip).
+
+
+
+Now that the driver is out of the way, we can finally start recording right? Well, it's not that simple, we need to find some decent recording software first. I'm going to save any readers that made it this far the trouble by quickly going through several things I've tried that either don't work at all or don't work well:
+
+
+| Software | Did it work? | Issues  |
+| :-------------: |:-------------:| :------------:|
+| Pinnacle Studio | NO | Wouldn't detect EasyCap |
+| Virtualdub      | Sort-of | Missing key features such as deinterlacing and audio track duplication |
+| VLC Media player | Sort-of  | Not selecting the default audio device causes the video to not load |
+| **OBS** | **Yes!**  | **None!** |
 
 ![aux audio jack](http://i.imgur.com/jM5stQS.jpg)
 
