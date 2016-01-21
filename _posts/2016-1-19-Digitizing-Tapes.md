@@ -16,7 +16,7 @@ More specifically, my dad bought this sad looking Sony Handycam Hi8 way back in 
 
 ##### What the heck is Hi8?
 
-You see back in the 80's and 90's JVC reigned supreme with their 'VHS-C' tapes that was the dominating standard on camcorder market. Sony decided that for their upcoming 'Handycam' line of camcorders they were going to release their own standard which featured similar video quality but significantly better audio quality awkwardly titled 'video8' (8 stands for 8mm). 
+You see back in the 80's and 90's JVC reigned supreme with their 'VHS-C' tape that was the dominating standard on camcorder market. Sony decided that for their upcoming 'Handycam' line of camcorders they were going to release their own standard which featured similar video quality but significantly better audio quality awkwardly titled 'video8' (8 stands for 8mm). 
 
 All was good for Sony until JVC released 'S-VHS-C' a much higher quality version of VHS that featured 480i lines of resolution (vs VHS's 240i). Quick to respond, Sony released their 'Hi8' standard, a revised version of 'video8' that also featured 480i lines of resolution.
 
@@ -40,27 +40,48 @@ Crossing my fingers hoping the tapes haven't deteriorated magnetically, I insert
 
 ---
 
-I think its about time that I finally digitize these tapes to preserve them indefinitely. Digitizing 8mm tapes on these older analog only cameras is somewhat of a laborous process due to the missing firewire port available on some newer digital Hi8 camcorders. The only output option I have on this camcorder is a standard composite video jack and a single composite mono audio jack.
+I think its about time that I finally digitize these tapes to preserve them indefinitely. Digitizing 8mm tapes on these older analog only cameras is somewhat of a laborous process due to the missing firewire port available on some newer digital Hi8 camcorders. 
+
+---
 
 ![composite jacks](http://i.imgur.com/c85bxU1.jpg)
+*The only output option I have on this camcorder is a standard composite video jack and a single composite mono audio jack.*
+
+---
 
 To digitize these tapes we're going to need some type of video capture device, more specifically a composite video to USB device. Having looked into reviews, it seems like the Elgato video capture card seems to be where decent video quality and simple software meet for a somewhat reasonably priced $80 price tag. I quickly changed my mind after I checked amazon.ca and realized I was looking at USD prices..
 
-![amazon elagto capture expensive](http://i.imgur.com/KB30eTD.png)
+---
+
+![amazon elagto capture expensive](http://i.imgur.com/GNpVsIo.png)
+*$1.00 CAD = $0.69 USD :(*
+
+---
 
 Instead, I opted to dig through my belongings to find the EasyCap DC60 capture card I had bought from dealextreme for $8.00 + Free shipping back in 2008 when I used to stream my xbox 360 onto my laptop because my family tv was in use.
 
+---
+
 ![dealextreme easycap](http://i.imgur.com/1wX3dmd.jpg)
+*Haven't touched this sucker since 2008, Played Ninja Gaiden II entirely on this thing..*
+
+---
 
 Don't be fooled, the cheap price tag doesn't come for free. This thing is riddled with problems, more on that later. 
 
 For starters, finding drivers for this thing is atrocious, the provided driver simply does not work because it's designed for genuine easycap devices not this knockoff. After some device manager investigation, I found the hardware ID of the EasyCap device and began googling around for a Windows 10 Driver...
+
+---
 
 ![device manager no driver](http://i.imgur.com/rWS3dzI.png)
 
 ```
 HardwareID: USB\VID_05E1&PID_0408&REV_0005&MI_00
 ```
+
+---
+
+
 
 I ended up finding this [blog post all about easycap drivers] (http://visser.io/2015/06/easycap-drivers-for-windows-8-1/) which linked to a driver that worked for my specific hardware [here](http://visser.io/wp-content/uploads/2015/06/EasycapDC60_STK1160Grabber_3264bit.zip).
 
@@ -70,11 +91,15 @@ Now that the driver is out of the way, we can finally start recording right? Wel
 
 
 | Software | Did it work? | Issues  |
-| :-------------: |:-------------:| :------------:|
+| :-------------: |:-------------------------:| :------------:|
 | Pinnacle Studio | NO | Wouldn't detect EasyCap |
 | Virtualdub      | Sort-of | Missing key features such as deinterlacing and audio track duplication |
 | VLC Media player | Sort-of  | Not selecting the default audio device causes the video to not load |
 | **OBS** | **Yes!**  | **None!** |
 
-![aux audio jack](http://i.imgur.com/jM5stQS.jpg)
+---
 
+![aux audio jack](http://i.imgur.com/jM5stQS.jpg)
+*The CCD-TR70 Featured a LANC port and an aux audio jack for simultaneously syncronizing multiple cameras in the professional setting*
+
+---
