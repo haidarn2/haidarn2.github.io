@@ -112,7 +112,7 @@ We're almost done, All thats left is to apply a deinterlacing filter (getting ri
 That's it! We can now start recording! For the odd person or two still reading, here's a little something for making it this far:
 
 <video width="640" height="480" controls>
-  <source src="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4" type="video/mp4">
+  <source src="http://haidarn2.github.io/images/digitizing-tapes/bonus.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
