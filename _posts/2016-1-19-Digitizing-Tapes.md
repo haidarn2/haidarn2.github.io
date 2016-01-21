@@ -42,8 +42,9 @@ Don't be fooled, the cheap price tag doesn't come for free. This thing is riddle
 For starters, finding drivers for this thing is atrocious, the provided driver simply does not work because it's designed for genuine easycap devices not this knockoff. After some device manager investigation, I found the hardware ID of the EasyCap device and began googling around for a Windows 10 Driver...
 
 ![device manager no driver](http://i.imgur.com/rWS3dzI.png)
+
 ```
-HardwareID: <b>USB\VID_05E1&PID_0408&REV_0005&MI_00</b>
+HardwareID: USB\VID_05E1&PID_0408&REV_0005&MI_00
 ```
 
 I ended up finding this [blog post all about easycap drivers] (http://visser.io/2015/06/easycap-drivers-for-windows-8-1/) which linked to a driver that worked for my specific hardware [here](http://visser.io/wp-content/uploads/2015/06/EasycapDC60_STK1160Grabber_3264bit.zip).
