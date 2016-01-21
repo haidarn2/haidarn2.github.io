@@ -13,8 +13,6 @@ More specifically, my dad bought this sad looking Sony Handycam Hi8 way back in 
 
 You see back in the 80's and 90's JVC reigned supreme with their 'VHS-C' tapes that was the dominating standard on camcorder market. Sony decided that for their upcoming 'Handycam' line of camcorders they were going to release their own standard which featured similar video quality but significantly better audio quality awkwardly titled 'video8' (8 stands for 8mm). 
 
-![vhs-c tape picture](http://i.imgur.com/z1kwdao.png)
-
 All was good for Sony until JVC released 'S-VHS-C' a much higher quality version of VHS that featured 480i lines of resolution (vs VHS's 240i). Quick to respond, Sony released their 'Hi8' standard, a revised version of 'video8' that also featured 480i lines of resolution.
 
 ##### Onto the point..
@@ -24,6 +22,8 @@ After going through some of my old belongings, I came across the forgotten camco
 Crossing my fingers hoping the tapes haven't deteriorated magnetically, I inserted the tape labeled 1995 and.. success! I guess thanks to my dad for spending the extra money to buy the genuine Sony gold quality branded tapes instead of going for a more economical option. 
 
 ![hi8 tape](http://i.imgur.com/V9RMCuh.jpg)
+
+![success viewfinder](http://i.imgur.com/kYzhhC4.jpg)
 
 I think its about time that I finally digitize these tapes to preserve them indefinitely. Digitizing 8mm tapes on these older analog only cameras is somewhat of a laborous process due to the missing firewire port available on some newer digital Hi8 camcorders. The only output option I have on this camcorder is a standard composite video jack and a single composite mono audio jack.
 
@@ -39,6 +39,8 @@ Instead, I opted to dig through my belongings to find the EasyCap DC60 capture c
 
 Don't be fooled, the cheap price tag doesn't come for free. This thing is riddled with problems, more on that later. 
 
-For starters, finding drivers for the this thing is atrocious, the provided driver simply does not work because it's designed for genuine easycap devices not this knockoff.
+For starters, finding drivers for this thing is atrocious, the provided driver simply does not work because it's designed for genuine easycap devices not this knockoff.
+
+![aux audio jack](http://i.imgur.com/jM5stQS.jpg)
 
 ...WIP...
