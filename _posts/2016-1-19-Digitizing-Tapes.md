@@ -111,7 +111,7 @@ We're almost done, All thats left is to apply a deinterlacing filter (getting ri
 
 That's it! We can now start recording! For the odd person or two still reading, here's a little something for making it this far:
 
-<video id="bonus_video" width="640" height="480" controls>
+<video id="bonus_video" width="100% controls>
   <source src="http://haidarn2.github.io/images/digitizing-tapes/bonus.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
