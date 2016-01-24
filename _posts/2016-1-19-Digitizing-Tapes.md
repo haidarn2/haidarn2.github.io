@@ -97,7 +97,7 @@ Before I explain what OBS is and show how I used it, I want to mention that the 
 
 [Open Broadcaster Software](https://obsproject.com/), (OBS) is an open-source video streaming software used primarily by broadcasters to livestream their video feeds onto Twitch, Youtube, etc. The neat thing about OBS is that it can be configured to stream to a locally encoded file instead of broadcasting it online. Using the following settings, I was able to select the EasyCap as my video input device, and select my line-in as my audio input device: 
 
-[OBS settings pic goes here]
+![OBS settings pic goes here](http://i.imgur.com/P8RqkOr.png)
 *caption 1*
 
 ---
