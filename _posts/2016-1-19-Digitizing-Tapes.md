@@ -97,10 +97,31 @@ Before I explain what OBS is and show how I used it, I want to mention that the 
 
 [Open Broadcaster Software](https://obsproject.com/), (OBS) is an open-source video streaming software used primarily by broadcasters to livestream their video feeds onto Twitch, Youtube, etc. The neat thing about OBS is that it can be configured to stream to a locally encoded file instead of broadcasting it online. Using the following settings, I was able to select the EasyCap as my video input device, and select my line-in as my audio input device: 
 
-![OBS settings pic goes here](http://i.imgur.com/P8RqkOr.png)
+![OBS settings pic](http://i.imgur.com/P8RqkOr.png)
  
 
-*caption 1*
+*First, add a new source by right clicking in the sources pane and adding a 'Video capture Device' then right click on the newly added source and hit properties*
+
+---
+
+![OBS settings pic 2](http://i.imgur.com/qk0k6am.png)
+ 
+
+*Next, choose the EasyCap Grabber from the Devices list, set Deinterlancing to Yadif2x, resolution to 640x480, FPS to 30, and finally disable Audio Input (More on that later)*
+
+---
+
+![OBS settings pic 3](http://i.imgur.com/7utkQ6f.png)
+ 
+
+*Going back to the main menu, hit settings, and adjust the mode to 'File output'. You might want to raise the default Replay buffer length to ensure there are no dropped frames (I raised mine to 1800 because I have tonnes of RAM to spare)*
+
+---
+
+![OBS settings pic 4](http://i.imgur.com/RSuE9T3.png)
+ 
+
+*Click 'Start streaming' and you should see a live preview of the broadcast*
 
 ---
 
