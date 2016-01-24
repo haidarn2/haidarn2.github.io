@@ -114,25 +114,24 @@ Before I explain what OBS is and show how I used it, I want to mention that the 
 ![OBS settings pic 3](http://i.imgur.com/7utkQ6f.png)
  
 
-*Going back to the main menu, hit settings, and adjust the mode to 'File output'. You might want to raise the default Replay buffer length to ensure there are no dropped frames (I raised mine to 1800 because I have tonnes of RAM to spare)*
+*Going back to the main menu, hit settings, and adjust the mode to 'File output'. You might want to raise the default Replay buffer length to ensure there are no dropped frames (I raised mine to 1800 because I have alot of RAM to spare)*
 
 ---
 
-![OBS settings pic 4](http://i.imgur.com/RSuE9T3.png)
+![OBS settings pic 4](http://i.imgur.com/HkNbH0N.png)
+ 
+*Be sure set the Microphone to your line-in/mic jack, and hit the checkbox "Force Microphone/Aux to Mono"*
+
+---
+
+![OBS settings pic 5](http://i.imgur.com/RSuE9T3.png)
  
 
 *Click 'Start streaming' and you should see a live preview of the broadcast*
 
 ---
 
-We're almost done, All thats left is to apply a deinterlacing filter (getting rid of the scan lines caused by the 480i resolution from the camcorder) and to duplicate the mono left audio track to stereo:
-
-[OBS settings pic 2 goes here]
-*caption 2*
-
----
-
-That's it! We can now start recording! For the odd person or two still reading, here's a little something for making it this far:
+That's it! For the odd person or two still reading, here's a little something for making it this far:
 
 <video id="bonus_video" width="100%" controls>
   <source src="http://haidarn2.github.io/images/digitizing-tapes/bonus.mp4" type="video/mp4">
