@@ -7,7 +7,7 @@ If your family was anything like mine, then at some point you've likely owned on
 
 More specifically, my dad bought this sad looking Sony Handycam Hi8 way back in 1995.
 
-![camcorder picture] (http://i.imgur.com/4lQtgRL.jpg)
+![camcorder picture](http://i.imgur.com/4lQtgRL.jpg)
 *The Sony Handycam CCD-TR70*
 
 ---
