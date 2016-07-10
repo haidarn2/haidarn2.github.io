@@ -71,7 +71,7 @@ HardwareID: USB\VID_05E1&PID_0408&REV_0005&MI_00
 
 
 
-I ended up finding this [blog post all about easycap drivers] (http://visser.io/2015/06/easycap-drivers-for-windows-8-1/) which linked to a driver that worked for my specific hardware [here](http://visser.io/wp-content/uploads/2015/06/EasycapDC60_STK1160Grabber_3264bit.zip).
+I ended up finding this [blog post all about easycap drivers](http://visser.io/2015/06/easycap-drivers-for-windows-8-1/) which linked to a driver that worked for my specific hardware [here](http://visser.io/wp-content/uploads/2015/06/EasycapDC60_STK1160Grabber_3264bit.zip).
 
 
 
