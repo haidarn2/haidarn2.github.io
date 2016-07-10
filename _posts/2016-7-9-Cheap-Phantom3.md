@@ -26,7 +26,10 @@ There are 3 Phantom 3 SKU's. At the top we have the Professional for $1000 USD, 
 
 Naturally I did not want to spend a fortune on my first "real" drone so I looked into several  "phantom clones" at the $300-$400 range. All the options I looked at were lacking in one shape or another; either lacking a gimbal, proper software, gps, or just plagued by stupid design choices like the Hubsan H501S transmitter uses 4x AA batteries that will only last ~15 minutes instead of a rechargable Li-Po battery.
 
-Compared to the Phantom 3 Standard at $499, these clones pail in comparison, and hence it was decided, I would buy a DJI Phantom 3 standard.
+Compared to the Phantom 3 Standard at $499, these clones pail in comparison.
+
+![Phantom 3 standard pic](http://i.imgur.com/HH6O4he.jpg)
+*Spoiler alert, I got a Phantom 3 Standard.*
 
 ---
 
@@ -95,7 +98,7 @@ Let's do a bit of math really quick and see just how much we've actually saved b
 
 Now enjoy 2 minutes of footage shot on my Phantom 3. 
 
-[![Drone bridge video](http://i.giphy.com/1EiO2FgJAlOQE.gif)](https://www.youtube.com/watch?v=V6-WdIptsX4)
+[![Drone bridge video](http://haidarn2.github.io/images/cheap-phantom3/bridge.gif)](https://www.youtube.com/watch?v=V6-WdIptsX4)
 
 *(Click the gif to open the YouTube link)*
 
