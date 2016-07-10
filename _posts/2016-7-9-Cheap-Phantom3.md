@@ -10,6 +10,7 @@ On the day of the exchange, I was suprised to see that I got a Hubsan X4 H107L q
 ![hubsan x4 h107l](http://i.imgur.com/gLgJIdr.jpg)
 *The Hubsan X4 H107L Mini Quadcopter is one of the best miniquads you can buy for the money at a mere $50*
 
+---
 
 The current leader in consumer and professional drones is none other than DJI, a chinese company at the forefront of the industry since 2013. DJI has released a number of drone lines including their widely popular "Phantom Series" in 2013. There have been 4 revisions of the Phantom Series, each one released approximately one year apart from each other. The most notable revision is the Phantom 3, due to the variety of sub models available.
 
@@ -40,12 +41,11 @@ As America's hat, it comes with no surprise to anyone living in Canada how much 
 ![bestbuy.ca posting of phantom 3](http://i.imgur.com/juL8Rqg.png)
 *I Mean atleast we get free shipping right?? :'(*
 
+---
 
 ***Q**: Can't we just buy a phantom 3 from the states? I mean its just $499 with no tax there if you buy out of state, right?*
 
 ***A**: I wish things were that simple, anything you buy from the states gets slapped with duties when it crosses the border and you end up getting hit with massive brokerage fees at the door equaling more than just buying locally. So buying a Phantom 3 from amazon.com for $499 USD and shipping to Canada is **not** a good idea.*
-
----
 
 #### The Frugality Loophole
 
@@ -55,6 +55,7 @@ As someone who spends an hour googling around for last second coupon codes befor
 
 *The excerpt from the FAQ page. I couldn't believe it either, I mean they could be paying upwards of $200 in brokerage fees!*
 
+---
 
 Great so this leads us into two options for getting a Phantom 3.
 
@@ -65,18 +66,18 @@ This is my preferred option, and ultimately what I ended up going with. I say th
 ![DJI educational discount page](http://i.imgur.com/1626Ayz.png)
 *Simply provide your university email and you'll recieve a 10% discount off your phantom 3. 10% is no joke, that's $50 USD.*
 
+---
 
 Next, the new Phantom 3 standard SKU can be found [here](http://store.dji.com/product/phantom-3-standard). Add the drone to your cart and apply the educational discount you recieved before.
 
 ![dji store new p3](http://i.imgur.com/TCaKPPi.png)
 *$499 USD. No tax. Free shipping. No Duties. What more can you ask for?*
 
+---
 
 **Option 2: Buy Refurbished**
 
 If you're feeling a bit cheap, there's no shame with going with the cheaper option. You can get the [refurbished version of the Phantom 3 Standard for $419 USD](http://store.dji.com/product/phantom-3-standard-refurbished-unit), a solid $80 discount. That being said you can only get away with so much as the educational discount code mentioned earlier does not apply to refurbished products, so your price to performance ratio is slightly reduced here.
-
----
 
 #### Recap
 
@@ -95,6 +96,8 @@ Let's do a bit of math really quick and see just how much we've actually saved b
 | **Total in CAD** |$768.40 CAD |~$782-847 CAD| $585.43 CAD|$547.62 CAD|
 
 *So there you have it, you're saving approximately $183 CAD following this method compared to buying locally from Bestbuy. $220 if you buy a refurbished model.*
+
+----
 
 Now enjoy 2 minutes of footage shot on my Phantom 3. 
 
