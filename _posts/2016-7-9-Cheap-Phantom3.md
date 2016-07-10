@@ -8,7 +8,6 @@ Like many friend circles, every year during christmas time my friends and I have
 On the day of the exchange, I was suprised to see that I got a Hubsan X4 H107L quadcopter from my good buddy Ali. Over the course of several months I learned to fly this fully manual mini-quad with decent precision and came to the conclusion that I wanted to get a larger drone.
 
 ![hubsan x4 h107l](http://www.flying-hobby.com/images/large/H107L/H107L_00.jpg)
-
 *The Hubsan X4 H107L Mini Quadcopter is one of the best miniquads you can buy for the money at a mere $50*
 
 
@@ -28,10 +27,6 @@ There are 3 Phantom 3 SKU's. At the top we have the Professional for $1000 USD, 
 Naturally I did not want to spend a fortune on my first "real" drone so I looked into several  "phantom clones" at the $300-$400 range. All the options I looked at were lacking in one shape or another; either lacking a gimbal, proper software, gps, or just plagued by stupid design choices like the Hubsan H501S transmitter uses 4x AA batteries that will only last ~15 minutes instead of a rechargable Li-Po battery.
 
 Compared to the Phantom 3 Standard at $499, these clones pail in comparison, and hence it was decided, I would buy a DJI Phantom 3 standard.
-
-
-![p3 standard pic](http://www5.djicdn.com/assets/images/products/phantom-3-standard/banner-11edccfb461fcd203d60783f4aeb63c3.jpg)
-*The DJI Phantom 3 Standard. Despite the low $499 price tag, the Standard uses the same $120 battery as the two more expensive models. Luckily the drone comes with one in the box.*
 
 ---
 
@@ -54,7 +49,6 @@ As America's hat, it comes with no surprise to anyone living in Canada how much 
 As someone who spends an hour googling around for last second coupon codes before completing a purchase, it was no surprise that I did the same with my Phantom. I stumbled upon a forum post appropriately titled ["Important information for Canadians"](http://forum.dji.com/thread-19852-1-1.html) on the DJI forums. In there they describe how DJI covers any brokerage fees accumulated when buying and shipping through their online store. This is answered in question #5 on DJI's FAQ page [here](http://www.dji.com/support/purchase#shipping_and_delivery).
 
 ![faq question 5](http://i.imgur.com/6fbefu8.png)
-
 *The excerpt from the FAQ page. I couldn't believe it either, I mean they could be paying upwards of $200 in brokerage fees!*
 
 
@@ -95,13 +89,11 @@ Let's do a bit of math really quick and see just how much we've actually saved b
 | **Duties** | N/A | ~$100-$150 USD | $0 | $0 |
 | **Total** | $768.40 CAD | ~$600-650 USD | $449 USD | $420 USD |
 | **Total in CAD** |$768.40 CAD |~$782-847 CAD| $585.43 CAD|$547.62 CAD|
-
-So there you have it, you're saving approximately $183 CAD following this method compared to buying locally from Bestbuy. $220 if you buy a refurbished model.
+*So there you have it, you're saving approximately $183 CAD following this method compared to buying locally from Bestbuy. $220 if you buy a refurbished model.*
 
 Now enjoy 2 minutes of footage shot on my Phantom 3. 
 
-![Drone bridge video](http://i.giphy.com/1EiO2FgJAlOQE.gif)
-
+[![Drone bridge video](http://i.giphy.com/1EiO2FgJAlOQE.gif)](https://www.youtube.com/watch?v=V6-WdIptsX4)
 *(Click the gif to open the YouTube link)*
 
 ---
