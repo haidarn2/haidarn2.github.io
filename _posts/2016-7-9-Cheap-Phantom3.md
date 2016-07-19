@@ -14,7 +14,7 @@ On the day of the exchange, I was suprised to see that I got a Hubsan X4 H107L q
 
 The current leader in consumer and professional drones is none other than DJI, a chinese company at the forefront of the industry since 2013. DJI has released a number of drone lines including their widely popular "Phantom Series" in 2013. There have been 4 revisions of the Phantom Series, each one released approximately one year apart from each other. The most notable revision is the Phantom 3, due to the variety of sub models available.
 
-There are 3 Phantom 3 SKU's. At the top we have the Professional for $1000 USD, touting a 4k Camera and Lightbridge for the video downlink, allowing for 5km range. The midrange option is the Phantom 3 Advanced for $799 USD, this time with a 2.7k camera, and lightbridge for again 5km range. Finally at the botom we have the Phantom 3 Standard for $500 USD, featuring a 2.7k camera, this time with WiFi downlink, limiting the range to 1km.
+There are 3 Phantom 3 SKU's. At the top we have the Professional for $1000 USD, touting a 4k Camera and Lightbridge for the video downlink, allowing for 5km range. The midrange option is the Phantom 3 Advanced for $799 USD, this time with a 2.7k camera, and lightbridge for again 5km range. Finally at the bottom we have the Phantom 3 Standard for $500 USD, featuring a 2.7k camera, this time with WiFi downlink, limiting the range to 1km.
 
 || ![Standard pic](http://i.imgur.com/VJq3UW6.png) | ![advanced pic](http://i.imgur.com/1kz1LtX.jpg) | ![propic](http://i.imgur.com/bwbMxo1.png) |
 |:-:|:-:|:-:|:-:|
@@ -25,7 +25,7 @@ There are 3 Phantom 3 SKU's. At the top we have the Professional for $1000 USD, 
 | **Price** | $499 USD | $799 USD | $1000 USD |
 
 
-Naturally I did not want to spend a fortune on my first "real" drone so I looked into several  "phantom clones" at the $300-$400 range. All the options I looked at were lacking in one shape or another; either lacking a gimbal, proper software, gps, or just plagued by stupid design choices like the Hubsan H501S transmitter uses 4x AA batteries that will only last ~15 minutes instead of a rechargable Li-Po battery.
+Naturally I did not want to spend a fortune on my first "real" drone so I looked into several  "phantom clones" at the $300-$400 range. All the options I looked at were lacking in one shape or another; either lacking a gimbal, proper software, gps, or just plagued by stupid design choices like the Hubsan H501S transmitter which uses 4x AA batteries that will only last ~15 minutes instead of a rechargable Li-Po battery.
 
 Compared to the Phantom 3 Standard at $499, these clones pail in comparison.
 
